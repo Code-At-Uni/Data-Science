@@ -9,10 +9,8 @@ This course is run in Google Colab (http://colab.research.google.com) - it gives
   Step 2 - [Intro to programming](https://drive.google.com/open?id=1sDtAtLv0gH23KbB_cHKHYNlkeRlOQUYR)
 
   Step 3 - Intro to data science:
-  
-     - [Teacher file](https://drive.google.com/open?id=10KnHaqUfneSsD7Ukf_SqFDRuFL4Q_GjU)
-     
-     - [Student file](https://drive.google.com/open?id=1qYHHENPxCo8gYhSszK7OWtwsh8T1cU7z)
+  * [Teacher file](https://drive.google.com/open?id=10KnHaqUfneSsD7Ukf_SqFDRuFL4Q_GjU)
+  * [Student file](https://drive.google.com/open?id=1qYHHENPxCo8gYhSszK7OWtwsh8T1cU7z)
 
 # Accompanying material 
 - [Course slides](https://drive.google.com/open?id=1kngd6WJzIX2Xj1R1CHxWmV71wacRMegE)
