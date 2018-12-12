@@ -1,4 +1,4 @@
-# Syllabus for Code at Uni's Data Science Course
+# Syllabus for University of Birmingham & Code at Uni's Data Science Course
 
 This course is run in Google Colab (http://colab.research.google.com) - it gives you a free Python 3 run time environment. 
 
